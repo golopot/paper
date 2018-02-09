@@ -1,0 +1,5 @@
+client/dist/
+client/package-lock.json
+client/node_modules/
+server-go/gin-bin
+server-go/upload/
